@@ -47,7 +47,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/keerthana-keerthana-476886323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🔗 [portfolio](https://lovable.dev/projects/d045c0c5-2cb9-4e95-8528-a8644f74fd62)
 
-[8:00 pm, 13/9/2025] 𝙆𝙚𝙚👸🏻🦋💎: ## 🚀 Tech Stack
 
 ### Frontend Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
